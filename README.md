@@ -1,4 +1,4 @@
-# BusGen
+# BusTalk
 
 # About
 An Android application that lets users that are connected to a particular electric bus (Västtrafik) join a common chatroom.
